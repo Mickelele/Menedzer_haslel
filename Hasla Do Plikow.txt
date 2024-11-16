@@ -1,0 +1,2 @@
+tekst.txt -> haslo1
+plik.txt -> haslo2
